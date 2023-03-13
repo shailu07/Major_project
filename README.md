@@ -1,7 +1,7 @@
 # Major_project
-# Python Assistant (PA)
+# Python Assistant (PA) - ELZA
 
-Python Assistant (PA) is a voice command based assistant service written in Python 3.9+. It can recognize human speech or voice, talk to user and execute basic commands.
+Python Assistant (PA) is Virtual Desktop Assistant , which is an AI technology that performs tasks based on verbal commands. It is an example of Weak AI i.e.., it can only perform quest designed by user. It is a personal Assistant like Microsoft Cortana.The design of system makes ease our daily activities by means of assistive technology and help a busy knowledge worker in managing time commitment and performing tasks.
 
 ## Features
 
@@ -17,9 +17,9 @@ Python Assistant (PA) is a voice command based assistant service written in Pyth
 
 * Play music 
 
-* Tells the internet speed i.e., upload and download speed [e.g. 'tell me the internet speed']
+* Tells the internet speed  [e.g. 'tell me the internet speed']
 
-* Opens MS Office suite applications [e.g. 'open word', 'open powerpoint']
+* Opens MS Office suite applications [e.g. 'open powerpoint']
 
 * Tells the latest daily news [e.g. 'tell me the news']
 
@@ -43,4 +43,4 @@ Python Assistant (PA) is a voice command based assistant service written in Pyth
 
 * Shutdown or Restart computer [e.g. 'shutdown computer', 'restart computer']
 
-* Searching anything on the internet [e.g. 'search Python', 'search uttar pradesh']
+* Searching anything on the internet [e.g. 'search Python', 'search Bigdata analytics']
